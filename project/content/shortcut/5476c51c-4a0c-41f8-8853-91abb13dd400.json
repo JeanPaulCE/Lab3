@@ -1,0 +1,55 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/admin\/config\/user-interface\/shortcut\/link\/2?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/type\/shortcut\/default"
+        }
+    },
+    "id": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "5476c51c-4a0c-41f8-8853-91abb13dd400"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es",
+            "lang": "es"
+        }
+    ],
+    "shortcut_set": [
+        {
+            "target_id": "default"
+        }
+    ],
+    "title": [
+        {
+            "value": "All content",
+            "lang": "es"
+        }
+    ],
+    "weight": [
+        {
+            "value": -19
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/admin\/content",
+            "title": null,
+            "options": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ]
+}

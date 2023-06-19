@@ -1,0 +1,40 @@
+.nota {
+  display: inline-flex;
+  flex-direction: row;
+  gap: 3rem;
+  background-color: #c44b12;
+  padding: 2rem;
+
+}
+
+.nota>.text_nota>h3 {
+  color: #fff;
+}
+
+.nota>.text_nota {
+  width: 70%;
+  color: #fff;
+}
+
+.btn_nota {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.link_notas {
+  border: #fff 3px solid;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #fff;
+  text-align: center;
+}
+
+.triangle_nota {
+  position: absolute;
+  right: 10%;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 10px solid rgb(255, 255, 255);
+}

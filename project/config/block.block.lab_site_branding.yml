@@ -1,0 +1,25 @@
+uuid: c32b15e0-b2c7-4451-b855-80ab2b341854
+langcode: es
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - lab
+_core:
+  default_config_hash: n_nlgjggHVfQt2H__zvLOKB2YtjPDbQ5tHijF9LE1aM
+id: lab_site_branding
+theme: lab
+region: header
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Marca del sitio'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: false
+visibility: {  }

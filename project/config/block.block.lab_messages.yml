@@ -1,0 +1,22 @@
+uuid: 358a6b23-006f-4393-acd8-e7e9167962e7
+langcode: es
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - lab
+_core:
+  default_config_hash: BZ5tpW7H8X4PVGRm3MImTIHd2tN0eF7zOtp4SpRYUA0
+id: lab_messages
+theme: lab
+region: highlighted
+weight: -5
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Mensajes de estado'
+  label_display: '0'
+  provider: system
+visibility: {  }

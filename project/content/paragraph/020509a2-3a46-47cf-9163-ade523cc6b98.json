@@ -1,0 +1,83 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/type\/paragraph\/title_text_cta"
+        }
+    },
+    "id": [
+        {
+            "value": 6
+        }
+    ],
+    "uuid": [
+        {
+            "value": "020509a2-3a46-47cf-9163-ade523cc6b98"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es",
+            "lang": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "title_text_cta"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-19T03:56:24+00:00",
+            "lang": "es",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "field_color": [
+        {
+            "value": "shaw"
+        }
+    ],
+    "field_link": [
+        {
+            "value": "tracrehicidraslotrolufraphophon"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "uijosposlihoswifrobrurekohoprochithajogebrodrijasowrostodedit"
+        }
+    ],
+    "field_url": [
+        {
+            "uri": "http:\/\/www.pishihi.com",
+            "title": "",
+            "options": []
+        }
+    ]
+}

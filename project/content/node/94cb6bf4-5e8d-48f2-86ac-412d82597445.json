@@ -1,0 +1,188 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/node\/1?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/type\/node\/page"
+        },
+        "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "href": "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/relation\/node\/page\/uid": [
+            {
+                "href": "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/user\/1?_format=hal_json",
+                "lang": "es"
+            }
+        ],
+        "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/relation\/node\/page\/field_dos": [
+            {
+                "href": ""
+            }
+        ],
+        "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/relation\/node\/page\/field_paragraph": [
+            {
+                "href": ""
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "94cb6bf4-5e8d-48f2-86ac-412d82597445"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es",
+            "lang": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-19T04:16:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/relation\/node\/page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "46092bbe-d728-4a0d-be33-3ddce398b428"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/relation\/node\/page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "46092bbe-d728-4a0d-be33-3ddce398b428"
+                    }
+                ],
+                "lang": "es"
+            }
+        ],
+        "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/relation\/node\/page\/field_dos": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/type\/paragraph\/contenido_en_dos_columnas"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "40227f59-e9c4-4de6-8603-f0869fe623b3"
+                    }
+                ],
+                "target_revision_id": "10"
+            }
+        ],
+        "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/relation\/node\/page\/field_paragraph": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/type\/paragraph\/title_text_cta"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "1ed7ba4f-fb2d-4e8e-a017-a70f60b880dd"
+                    }
+                ],
+                "target_revision_id": "11"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "title": [
+        {
+            "value": "Home",
+            "lang": "es"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-19T03:45:44+00:00",
+            "lang": "es",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-19T04:16:03+00:00",
+            "lang": "es",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "es"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "es",
+            "lang": "es"
+        }
+    ]
+}

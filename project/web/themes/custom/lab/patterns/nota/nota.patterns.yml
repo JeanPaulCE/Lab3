@@ -1,0 +1,30 @@
+nota: 
+  label: "nota"
+  description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem minus sed numquam?"
+  fields: 
+    title:
+      type: string
+      label: Titulo
+      preview: "title"
+    text:
+      type: string
+      label: Text
+      preview: "text"
+    url:
+      type: url
+      label: Url
+      preview: "url"
+    link:
+      type: string
+      label: Link
+      preview: "link"
+    color:
+      type: color
+      label: Color
+      preview: "color"
+  libraries:
+    -
+      nota:
+        css:
+          component:
+            css/styles.css: {}

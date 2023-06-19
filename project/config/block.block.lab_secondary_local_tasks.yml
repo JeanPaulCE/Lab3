@@ -1,0 +1,22 @@
+uuid: 35c4543f-c8d0-4452-8619-c3f7e0b4c49b
+langcode: es
+status: true
+dependencies:
+  theme:
+    - lab
+_core:
+  default_config_hash: ydSxdq7R66I8UMC460rOzlfzvlUL4VRbdwc6z9DWaUI
+id: lab_secondary_local_tasks
+theme: lab
+region: highlighted
+weight: -2
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Solapas secundarias'
+  label_display: '0'
+  provider: core
+  primary: false
+  secondary: true
+visibility: {  }

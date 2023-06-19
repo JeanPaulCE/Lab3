@@ -1,0 +1,22 @@
+uuid: 4ec9f8b6-3dff-431d-9413-0e36b8650f0f
+langcode: es
+status: true
+dependencies:
+  theme:
+    - lab
+_core:
+  default_config_hash: nGE3EoPQQaQCuqTUtZgw0-KIzmrqdKDzdNQf2JyPUt4
+id: lab_primary_local_tasks
+theme: lab
+region: highlighted
+weight: -4
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Solapas principales'
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: false
+visibility: {  }

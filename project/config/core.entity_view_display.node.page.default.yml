@@ -1,11 +1,14 @@
-uuid: 9f9ca08c-8b92-426b-b374-20078de2295a
-langcode: en
+uuid: b4e98aa2-290f-4b84-a026-105af543a573
+langcode: es
 status: true
 dependencies:
   config:
     - field.field.node.page.body
+    - field.field.node.page.field_dos
+    - field.field.node.page.field_paragraph
     - node.type.page
   module:
+    - entity_reference_revisions
     - text
     - user
 _core:
@@ -22,7 +25,26 @@ content:
     third_party_settings: {  }
     weight: 100
     region: content
+  field_dos:
+    type: entity_reference_revisions_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 103
+    region: content
+  field_paragraph:
+    type: entity_reference_revisions_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 102
+    region: content
   links:
     weight: 101
     region: content
-hidden: {  }
+hidden:
+  langcode: true

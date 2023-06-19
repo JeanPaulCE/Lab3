@@ -1,0 +1,22 @@
+uuid: 7ff08589-1728-4bd5-9d37-75aff1d91273
+langcode: es
+status: false
+dependencies:
+  module:
+    - system
+  theme:
+    - lab
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: lab_powered
+theme: lab
+region: header
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Funciona con Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }
