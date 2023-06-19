@@ -1,0 +1,83 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "https:\/\/8080-jeanpaulce-lab3-rn0svrf0a7c.ws-us100.gitpod.io\/rest\/type\/paragraph\/title_text_cta"
+        }
+    },
+    "id": [
+        {
+            "value": 5
+        }
+    ],
+    "uuid": [
+        {
+            "value": "4e193b94-b0ab-4ada-8b36-8e0d50537475"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es",
+            "lang": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "title_text_cta"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-19T03:56:24+00:00",
+            "lang": "es",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "field_color": [
+        {
+            "value": "gak"
+        }
+    ],
+    "field_link": [
+        {
+            "value": "trepethekaslisalicrowrutresitrishira"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "pruspiwroshijolocrohasluspugosuwroranesukicrihosleravacuwuclajicrojece"
+        }
+    ],
+    "field_url": [
+        {
+            "uri": "http:\/\/www.uumephaswodi.org",
+            "title": "",
+            "options": []
+        }
+    ]
+}
